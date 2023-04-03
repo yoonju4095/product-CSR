@@ -9,3 +9,5 @@
 [소요기술]
 1. 클라이언트는 Ajax 기술, 서버는 Rest API로 구현하시오. (즉, 화면은 CSR로 구현)
 2. SpringBoot, thymeleaf, 웹표준기술(HTML, CSS, JAVASCRIPT), Spring MVC, DB연동
+
+
